@@ -11,7 +11,7 @@ motor-test/
 ### 1. Clona este repositorio
 
 ```
-git clone https://github.com/tu-usuario/motor-test.git
+git clone https://github.com/LuisDiaz95/motor-test.git
 cd motor-test
 ```
 
